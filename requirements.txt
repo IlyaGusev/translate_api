@@ -1,3 +1,4 @@
 ctranslate2
-fastapi
 pydantic-settings
+pydantic
+fastapi
